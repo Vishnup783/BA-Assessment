@@ -2,15 +2,12 @@
 Features of the Customer Portal:
 
 Product Browsing and Filtering: 
-
-This feature allows you to search for products by category, brand, price range, etc.
-Suggestions for products based on browsing habits and history.
+ This feature allows you to search for products by category, brand, price range, etc.
+ Suggestions for products based on browsing habits and history.
 Comprehensive Product Pages: 
-
-Exceptional photos, thorough explanations, technical details, and client testimonials.
-Size tables, available colors, and the state of availability.
+ Exceptional photos, thorough explanations, technical details, and client testimonials.
+ Size tables, available colors, and the state of availability.
 Easy Checkout Procedure:
-
 A simple and safe connection of payment gateways.
 Payment data can be saved for use on subsequent transactions during guest checkout.
 Order monitoring and status reports.
