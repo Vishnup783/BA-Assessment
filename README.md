@@ -1,5 +1,5 @@
 # BA-Assessment
-Features of the Customer Portal:
+**Features of the Customer Portal:**
 
 Product Browsing and Filtering: 
  This feature allows you to search for products by category, brand, price range, etc.
@@ -21,7 +21,7 @@ User Account Management:
  Easily browse and shop on a variety of devices with a mobile-friendly layout thanks to responsive design.
 
 
-Features of the Vendor Portal:
+**Features of the Vendor Portal:****
 
 Registration and Verification of Vendors:
  Safe registration procedure includes procedures for verification.
@@ -45,7 +45,7 @@ Customer communication:
  Alerts for updated product listings, new orders, and questions.
 
 
-User Journey:
+**User Journey:**
 
 Onboarding of Customers:
 
@@ -65,7 +65,7 @@ Order Confirmation:
  Checking the purchase and verifying the order summary.
  Getting a confirmation message or email containing tracking and order details.
 
-Vendor Onboarding:
+**Vendor Onboarding:**
 
 Registration:
  Using the homepage to reach the vendor registration page.
