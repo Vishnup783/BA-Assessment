@@ -1,5 +1,6 @@
 # BA-Assessment
 Features of the Customer Portal:
+
 Product Browsing and Filtering: This feature allows you to search for products by category, brand, price range, etc.
 Suggestions for products based on browsing habits and history.
 Comprehensive Product Pages: 
