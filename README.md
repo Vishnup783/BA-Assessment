@@ -22,47 +22,59 @@ User Account Management:
 
 
 Features of the Vendor Portal:
+
 Registration and Verification of Vendors:
-Safe registration procedure includes procedures for verification.
-Gathering of vital data, including bank account information, contact details, and company facts.
+ Safe registration procedure includes procedures for verification.
+ Gathering of vital data, including bank account information, contact details, and company facts.
+
 Product Management:
-Product addition, editing, and management interface.
-There are options to post product pictures, descriptions, prices, and stock levels.
-Functionality for bulk import/export for effective catalog management.
+ Product addition, editing, and management interface.
+ There are options to post product pictures, descriptions, prices, and stock levels.
+ Functionality for bulk import/export for effective catalog management.
+
 Order Fulfillment: 
-Incoming orders, order status, and fulfillment requirements are shown on a dashboard.
-Integration with shipping companies to track shipments and create labels.
+ Incoming orders, order status, and fulfillment requirements are shown on a dashboard.
+ Integration with shipping companies to track shipments and create labels.
+
 Sales analytics: 
-Get access to revenue trends, customer insights, and sales reports.
-Instruments for assessing product performance and refining sales tactics.
+ Get access to revenue trends, customer insights, and sales reports.
+ Instruments for assessing product performance and refining sales tactics.
+
 Customer communication: 
-Orders, questions, and feedback are sent to customers using a messaging system.
-Alerts for updated product listings, new orders, and questions.
+ Orders, questions, and feedback are sent to customers using a messaging system.
+ Alerts for updated product listings, new orders, and questions.
 
 
 User Journey:
-Onboarding of Customers:
-Homepage:
-Overview of the platform's features and services.
-Options for signing up or logging in are clearly marked.
-Investigating Products:
-navigating through categories or making use of the search engine.
-Products can be clicked to obtain more detailed information.
-Checkout and Adding to Cart: 
-Choose the items you want to buy and put them in your cart.
-completing the payment and shipping forms during the checkout process.
-Order Confirmation: 
-Checking the purchase and verifying the order summary.
-Getting a confirmation message or email containing tracking and order details.
 
-Vendor Onboarding: 
+Onboarding of Customers:
+
+Homepage:
+ Overview of the platform's features and services.
+ Options for signing up or logging in are clearly marked.
+
+Investigating Products:
+ Navigating through categories or making use of the search engine.
+ Products can be clicked to obtain more detailed information.
+
+Checkout and Adding to Cart: 
+ Choose the items you want to buy and put them in your cart.
+ Completing the payment and shipping forms during the checkout process.
+
+Order Confirmation: 
+ Checking the purchase and verifying the order summary.
+ Getting a confirmation message or email containing tracking and order details.
+
+Vendor Onboarding:
+
 Registration:
-Using the homepage to reach the vendor registration page.
-Supplying contact and business details on the registration form.
-Providing the required documentation for verification is the verification process.
-awaiting the platform administrator's approval.
+ Using the homepage to reach the vendor registration page.
+ Supplying contact and business details on the registration form.
+ Providing the required documentation for verification is the verification process.
+ Awaiting the platform administrator's approval.
+
 Product Listing: 
-Upon acceptance, gaining access to the vendor dashboard.
-Enter product information here, including title, description, price, and photos.
-Order management is keeping an eye on incoming orders and processing them so they may be filled.
-Maintaining stock levels and making necessary updates to product listings.
+ Upon acceptance, gaining access to the vendor dashboard.
+ Enter product information here, including title, description, price, and photos.
+ Order management is keeping an eye on incoming orders and processing them so they may be filled.
+ Maintaining stock levels and making necessary updates to product listings.
