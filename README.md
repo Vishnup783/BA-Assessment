@@ -8,16 +8,17 @@ Product Browsing and Filtering:
 Comprehensive Product Pages: 
  Exceptional photos, thorough explanations, technical details, and client testimonials.
  Size tables, available colors, and the state of availability.
-Easy Checkout Procedure:
-A simple and safe connection of payment gateways.
-Payment data can be saved for use on subsequent transactions during guest checkout.
-Order monitoring and status reports.
-User Account Management:
 
-Setting up and maintaining profiles.
-Wish lists, order histories, and stored addresses.
-Choices to subscribe to newsletters and special deals.
-Easily browse and shop on a variety of devices with a mobile-friendly layout thanks to responsive design.
+Easy Checkout Procedure:
+ A simple and safe connection of payment gateways.
+ Payment data can be saved for use on subsequent transactions during guest checkout.
+ Order monitoring and status reports.
+
+User Account Management:
+ Setting up and maintaining profiles.
+ Wish lists, order histories, and stored addresses.
+ Choices to subscribe to newsletters and special deals.
+ Easily browse and shop on a variety of devices with a mobile-friendly layout thanks to responsive design.
 
 
 Features of the Vendor Portal:
