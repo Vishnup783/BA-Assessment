@@ -21,7 +21,7 @@ User Account Management:
  Easily browse and shop on a variety of devices with a mobile-friendly layout thanks to responsive design.
 
 
-**Features of the Vendor Portal:****
+**Features of the Vendor Portal:**
 
 Registration and Verification of Vendors:
  Safe registration procedure includes procedures for verification.
